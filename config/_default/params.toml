@@ -5,9 +5,9 @@ favicon = "images/favicon.png"
 logo = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "150px"
+logo_width = "200px"
 # logo text will only show when logo is missing.
-logo_text = "Airspace"
+logo_text = "KEEB Group"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
@@ -25,8 +25,6 @@ North Main Street
 Brooklyn, New South Wales  
 Australia
 """
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/

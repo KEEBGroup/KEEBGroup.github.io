@@ -4,11 +4,11 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "SPO2 Monitoring <br/> Made Accessible"
+  content: "With products such as the RES Device, we empower individuals to take control of their oxygen monitoring"
   button:
     enable: true
-    label: "Discover Our Project"
+    label: "Discover the RES Device"
     link: "project/"
 
 ############################# About #################################
