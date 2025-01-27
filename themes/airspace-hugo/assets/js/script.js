@@ -54,7 +54,7 @@ $(document).ready(function () {
     infinite: true,
     arrows: false,
     autoplay: true,
-    autoplaySpeed: 2000
+    autoplaySpeed: 5000
   });
 
   $('.testimonial-slider').slick({
@@ -62,7 +62,7 @@ $(document).ready(function () {
     infinite: true,
     arrows: false,
     autoplay: true,
-    autoplaySpeed: 2000
+    autoplaySpeed: 8000
   });
 
   //  Count Up

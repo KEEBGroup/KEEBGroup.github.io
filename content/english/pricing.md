@@ -1,13 +1,13 @@
 ---
 title: "Our Pricing"
-description: "this is meta description"
+description: "Our pricing is currently in the works, as we develop our devices and strive to minimize unneeded costs. Stay tuned!"
 bg_image: "images/feature-bg.jpg"
 layout: "pricing"
 draft: false
 
 ################################ pricing ################################
 pricing:
-  enable : true
+  enable : false
   pricing_table:
   # pricing table loop
   - name : "Basic"
@@ -50,6 +50,6 @@ pricing:
 
 ############################# call to action #################################
 cta:
-  enable : true
+  enable : false
   # call to action content comes from "_index.md"
 ---
