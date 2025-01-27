@@ -95,16 +95,35 @@ funfacts:
     content: "A vast majority of Covid pneumonia patients I met had remarkably low oxygen saturations at triage—seemingly incompatible with life—but they were using their cell phones . . . they had relatively minimal apparent distress, despite dangerously low oxygen levels"
 
   # testimonial item loop
-  - name: "Randi Renin"
+  - name: "COPD Patient"
     image: NULL
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    designation: ""
+    content: "You are so right about getting a better system in place for measuring O2. I have also noticed that arthritic joints will affect the finger monitors, and forget about dark nail polish."
 
   # testimonial item loop
-  - name: "Rose Rio"
+  - name: "COPD Patient"
     image: NULL
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    designation: ""
+    content: "I have been relying on the health app on my phone. Readings are so delayed when I am short of breath, I feel like it doesn't capture my lows. It will have me wait a LONG time 'check that your finger is on the sensor' if my fingers are cold."
 
+  # testimonial item loop
+  - name: "COPD Patient"
+    image: NULL
+    designation: ""
+    content: "I use a $25 finger tip monitor that I bought on Amazon. It seems to work ok. When I have problems with cold finger tips, I quickly warm them by blowing or sucking on them (sounds gross, but it works)"
+
+  # testimonial item loop
+  - name: "COPD Patient"
+    image: NULL
+    designation: ""
+    content: "I also have an Apple watch that has the SpO2 feature. But, I have noticed that although it is pretty accurate, it is not easy to get a reading on demand. Many times I have to retry 3 or 4 times before it will register a reading. The monitor is extremely sensitive to placement on your wrist and tightness of the band."
+
+  # testimonial item loop
+  - name: "COPD Patient"
+    image: NULL
+    designation: ""
+    content: "I was watching the O2 ring for a long time waiting for a deal. I got a good price during a lightening deal. I thought that would be best, but it's hard to see. The good thing is you can set alerts. It will buzz or vibe if you go below what you set it for. (I wanted to also see my overnight oxygen)
+
+Takes time to get used to wearing this. Honestly, I don't use it too often. But it's a more discreet way of checking & if I can't see due to sun, I just open the app on my phone & it's in sync."
 
 ---
