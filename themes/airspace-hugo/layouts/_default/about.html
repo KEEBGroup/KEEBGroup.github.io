@@ -38,6 +38,114 @@
 {{ end }}
 {{ end }}
 
+{{ with .Params.founder1 }}
+{{ if .enable }}
+<section class="first founder section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="about2-img">
+          <img class="img-responsive" src="{{ .image | relURL }}">
+        </div>
+      </div>
+      <div class="col-md-6">
+        {{ with .title }}<h2 class="mt-40">{{ . | markdownify }}</h2>{{ end }}
+        {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        {{ with .button }}
+        {{ if .enable }}
+        <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    <div class="row counter-box text-center mt-50">
+      {{ range .funfacts }}
+      <div class="col-md-2">
+        <div class="counter-item">
+          {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+          {{ with .count }}<h4 class="count" data-count="{{ . }}">0</h4>{{ end }}
+          {{ with .name }}<span>{{ . }}</span>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ with .Params.founder2 }}
+{{ if .enable }}
+<section class="second founder section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+          {{ with .title }}<h2 class="mt-40">{{ . | markdownify }}</h2>{{ end }}
+          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+          {{ with .button }}
+          {{ if .enable }}
+          <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="founder2-img">
+          <img class="img-responsive" src="{{ .image | relURL }}">
+      </div>
+    </div>
+    <div class="row counter-box text-center mt-50">
+      {{ range .funfacts }}
+      <div class="col-md-2">
+        <div class="counter-item">
+          {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+          {{ with .count }}<h4 class="count" data-count="{{ . }}">0</h4>{{ end }}
+          {{ with .name }}<span>{{ . }}</span>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ with .Params.founder3 }}
+{{ if .enable }}
+<section class="third founder section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="about2-img">
+          <img class="img-responsive" src="{{ .image | relURL }}">
+        </div>
+      </div>
+      <div class="col-md-6">
+        {{ with .title }}<h2 class="mt-40">{{ . | markdownify }}</h2>{{ end }}
+        {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        {{ with .button }}
+        {{ if .enable }}
+        <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    <div class="row counter-box text-center mt-50">
+      {{ range .funfacts }}
+      <div class="col-md-2">
+        <div class="counter-item">
+          {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+          {{ with .count }}<h4 class="count" data-count="{{ . }}">0</h4>{{ end }}
+          {{ with .name }}<span>{{ . }}</span>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
 {{ with .Params.features }}
 {{ if .enable }}
 <section class="about-feature bg-dark section dark-service">

@@ -2,7 +2,7 @@
 title: "Frequently Asked Questions"
 description: "FAQ Page explaining information about the RES Device and KEEB Group"
 subtitle : "Questions about KEEB Group, the RES Device, or more? Find your answers here"
-lastmod: 2021-04-01T00:00:00
+lastmod: 2025-01-01T00:00:00
 bg_image: "images/feature-bg.jpg"
 layout: "faq"
 draft: false
@@ -18,28 +18,12 @@ To support better health management, we are proud to introduce our innovative Sp
 
 Sleep soundly at night with the RES Device.
 
-#### 2. Data We Collect
+#### 2. What data do you collect? Can I connect it with my doctor's app?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+We store no data on our servers about you or what you do. 
 
-#### 3. How We Use Data
+All of our data is currently stored in our app, and is not transmitted to anyone. In the future, we will design a system that integrates with modern telehealth systems to provide this information to your health provider with your consent.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+<!-- #### 3. Is this a medical device?
 
-#### 5. Security
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
-
-#### 6. Advertising.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
+No. It is a wellness and self diagnostic device. Our devices pose a low risk to the safety of the user and others, and are not intended to diagnose or treat a specific disease. They are not currently designed to withstand natural disasters, geopolitical issues, and we do not make medical claims to any. We plan to file for a Class 1 medical device label after we develop a minimum viable product and can prove that our device matches or exceeds the efficiency and accuracy of competing devices. -->

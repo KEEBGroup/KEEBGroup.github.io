@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "About KEEB Group LLC"
+description: "KEEB Group exists as an expression of the opportunities created out of this care, both for ourselves, and those whose well being we are responsible for."
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
@@ -10,54 +10,72 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  title : "We develop devices to support those who need it"
+  content : "Our guiding principle is simple: To consistently value each other’s long term well being over any short term benefit we could derive.
 
 
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  Our founders are: a Nurse, an EMT, a Hacker/Software Engineer, and a Hardware Engineer. We all exist as a support network first because disability has made certain possibilities out of reach to us all."
 
   button:
-    enable : true
+    enable : false
     label : "Download Company Profile"
     link : "#"
 
-  funfacts:
-  # funfacts loop
-  - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
-    name : "Completed Projects"
-    count : "349"
+founder1:
+  enable : true
+  image : "images/teams/naser.jpg"
+  title : "Naser Issa | Co-Founder and Chief Executive Officer"
+  content : "Naser is a multifaceted professional who brings a unique blend of expertise through his background in cybersecurity and commercial real estate. With extensive experience designing cutting-edge software for AI and embedded systems security at industry leaders like NVIDIA, MITRE Corp., and Truist, Naser has honed his skills as an exceptional embedded systems developer. His technical prowess, combined with his entrepreneurial acumen, positions him as an ideal leader for KEEB Group's software development team."
 
-  # funfacts loop
-  - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
-    name : "Lines Of Code"
-    count : "35000"
 
-  # funfacts loop
-  - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "70"
+founder2:
+  enable : true
+  image : "images/teams/ben.jpg"
+  title : "Benjamin Ryle | Co-Founder and Chief Technology Officer"
+  content : "A former Integrated Circuit Design Verification Engineer at NVIDIA, Mr. Ryle received his Master of Science in Computer Engineering from NC State. Through his schooling and industry experience, Mr. Ryle is a capable embedded system designer with experience in Mixed Physical/Digital systems, DSP, and Circuit Design."
 
-  # funfacts loop
-  - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "10"
+founder3:
+  enable : true
+  image : "images/teams/emerald.jpg"
+  title : "Emerald McGeeHee"
+  content : ""
 
-  # funfacts loop
-  - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "75"
 
-  # funfacts loop
-  - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "20"
+  # funfacts:
+  # # funfacts loop
+  # - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
+  #   name : "Completed Projects"
+  #   count : "349"
+
+  # # funfacts loop
+  # - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
+  #   name : "Lines Of Code"
+  #   count : "35000"
+
+  # # funfacts loop
+  # - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
+  #   name : "Satisfied Customer"
+  #   count : "70"
+
+  # # funfacts loop
+  # - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
+  #   name : "Awards Winner"
+  #   count : "10"
+
+  # # funfacts loop
+  # - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
+  #   name : "Satisfied Customer"
+  #   count : "75"
+
+  # # funfacts loop
+  # - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
+  #   name : "Awards Winner"
+  #   count : "20"
 
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Our Founders"
   feature_item:
   # feature item loop
   - icon : "fab fa-app-store-ios" #https://fontawesome.com/v5.15/icons
@@ -134,6 +152,6 @@ mission_vision:
 
 ############################# call to action #################################
 cta:
-  enable : true
+  enable : false
   # call to action content comes from "_index.md"
 ---
