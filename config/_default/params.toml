@@ -12,19 +12,13 @@ logo_text = "KEEB Group"
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "Affordable and Accessible SPO2 Monitoring"
-author = "Themefisher"
+author = "KEEB Group"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "0124857985320"
-email = "demo@email.com"
-location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
-"""
+email = "info@keebgroup.org"
+
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -33,7 +27,7 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
 
 [contact.form]
-enable = true
+enable = false
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
 use_netlify = true
 # Whether to use recaptch v3 in form

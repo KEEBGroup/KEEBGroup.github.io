@@ -8,3 +8,6 @@ hugo.darwin
 node_modules
 dist
 tmp
+.hugo_build.lock
+hugo_stats.json
+package-lock.json

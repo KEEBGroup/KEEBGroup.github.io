@@ -11,10 +11,10 @@ name = "About"
 url = "about/"
 weight = 2
 
-[[main]]
-name = "RES Device"
-url = "project/"
-weight = 3
+# [[main]]
+# name = "RES Device"
+# url = "project/"
+# weight = 3
 
 [[main]]
 weight = 5
@@ -45,10 +45,10 @@ name = "About"
 url = "about/"
 weight = 2
 
-[[footer]]
-name = "RES Device"
-url = "project/"
-weight = 3
+# [[footer]]
+# name = "RES Device"
+# url = "project/"
+# weight = 3
 
 
 [[footer]]
